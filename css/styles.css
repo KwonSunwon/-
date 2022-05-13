@@ -1,0 +1,38 @@
+body {
+background-color : #342D2A; }
+
+h1 {
+font-family: 'Noto Sans KR', sans-serif;
+font-weight : black;
+background-color : #2E68D9;
+color : #342D2A; 
+padding : 10px;}
+
+h2 {
+font-family: 'Noto Sans KR', sans-serif;
+font-weight : black;
+background-color : #2E68D9; 
+color : #FFFFFF; }
+
+li{
+font-family: 'Noto Sans KR', sans-serif;
+color : #FFFFFF;
+}
+
+a {
+font-family: 'Nanum Gothic', sans-serif;
+color : #FFFFFF; }
+
+ol, ul{
+font-family: 'Nanum Gothic', sans-serif;
+color : #FFFFFF;
+}
+
+p{
+font-family: 'Nanum Gothic', sans-serif;
+text-align: justify;
+color : #FFFFFF; }
+
+.top{
+color : #FFFFFF;
+}
